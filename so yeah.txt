@@ -1,0 +1,1 @@
+looks like there is a bit of delay between the Git desktop console committing, and the Git website profile actually recieving the commit - but yeah, getting there, should be fine - starting to get the hang of things.
